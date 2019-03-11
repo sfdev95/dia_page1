@@ -1,0 +1,6 @@
+root = true
+[*]
+end_of_line = lf #el edito config tiene que estar fuera de las carpetas para que puedan coger todos los archivos es decir dentro de la raiz
+insert_final_newline = true
+indent_style = space
+indent_size = 2
